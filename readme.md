@@ -4,7 +4,7 @@
 
 ### Restoring the Windows 11 context menu
 
-Love it, hate it, the new context menu in Windows 11 has been polarizing. Use the simple PowerShell scripts in this repository to restore the pre-W11 right click context menu. 
+Love it, hate it, the new context menu in Windows 11 has been polarizing. Use the PowerShell scripts in this repository to restore the pre-W11 right click context menu. 
 
 ## Functions
 
