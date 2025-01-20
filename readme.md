@@ -4,7 +4,7 @@
 
 ### Restoring the Windows 11 context menu
 
-Love it or hate it, the new context menu in Windows 11 can be a bit polarizing. Use the simple PowerShell scripts in this repository to restore the pre-W11 right click context menu. 
+Love it, hate it, the new context menu in Windows 11 has been polarizing. Use the simple PowerShell scripts in this repository to restore the pre-W11 right click context menu. 
 
 ## Functions
 
@@ -17,9 +17,5 @@ The repo consists of three functions:
 - `Restore-W10RightClick-Intune.ps1`
     -   Intended to be run as the NT\System authority. Will delete the subkeys for *all* accounts, thus restoring the right click context menu behavior to default for all accounts on the machine. This is meant for use in a deployable Intune package for self service via the 'Company Portal'. 
 
-
-
-
-
-    ## Packaging this item for self service in the Intune Company Portal 
+There is also a simple .cmd one liner that will apply this change with one click. The functions in each script can be used to switch between the two defaults as needed. 
 
