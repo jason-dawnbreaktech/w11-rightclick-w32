@@ -8,7 +8,7 @@ Love it, hate it, the new context menu in Windows 11 has been polarizing. Use th
 
 ## Functions
 
-The repo consists of three scripts, each with its own function:
+The repo consists of two scripts containing functions, and a short detection script:
 
 - `Restore-W10RightClick.ps1`
     -   Will create the following registry key:
