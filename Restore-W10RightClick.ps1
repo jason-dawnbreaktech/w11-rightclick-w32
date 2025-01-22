@@ -29,3 +29,5 @@ Function Restore-W10RightClick {
 }
 
 Restore-W10RightClick
+Stop-Process -Name explorer -Force
+Start-Process explorer
