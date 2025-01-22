@@ -1,4 +1,4 @@
-## Give me old Right Click
+## Give Me Old Right Click
 
 ![Give me old right click](src/imgs/right-click-1.png)
 
