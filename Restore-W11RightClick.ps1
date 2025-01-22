@@ -18,6 +18,7 @@ function Restore-Win11RightClick {
         Write-Output "An error occurred: $_"
     }
 }
+Restore-Win11RightClick
 
 
 
